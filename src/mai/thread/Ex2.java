@@ -1,4 +1,4 @@
-package mai.thred;
+package mai.thread;
 
 import java.util.Random;
 

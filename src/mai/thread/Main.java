@@ -1,4 +1,4 @@
-package mai.thred;
+package mai.thread;
 
 public class Main {
 	public static void main(String args[]) {
